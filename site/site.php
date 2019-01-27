@@ -5,12 +5,12 @@
 	<title>Site</title>
 </head>
 <body>
-	1243213124123
+	12432131241 
 </body>
 </html>
 
 <?php
 
-
+     echo 'Ku';
 
 ?>
